@@ -1,1 +1,1 @@
-# AI-Governance
+# Global-Responsible-AI
