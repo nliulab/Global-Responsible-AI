@@ -41,7 +41,7 @@ Comprehensive frameworks to document and report AI processes and outcomes:
 
 - **[TRIPOD-AI](#)**: Facilitates clarity in developing and validating AI prediction models.
 
-> **Narrative**: These guidelines standardize how AI models are described, making research reproducible and results trustworthy.
+> These guidelines standardize how AI models are described, making research reproducible and results trustworthy.
 
 ### 2. Governance Policies
 
@@ -57,7 +57,7 @@ Explore the regulatory frameworks shaping responsible AI development globally:
 
 - **[WHO Guideline on Large Multimodal Models (LMMs)](#)**: Addresses ethical and practical considerations for developing and deploying LMMs.
 
-> **Narrative**: Governance policies align technological advancements with societal values, ensuring accountability, fairness, and inclusivity.
+> Governance policies align technological advancements with societal values, ensuring accountability, fairness, and inclusivity.
 
 ### 3. Research Institutes
 
@@ -69,6 +69,6 @@ Institutes pioneering responsible AI research:
 
 - **[Oxford Institute for Ethics in AI](#)**: Explores ethical dilemmas in AI technologies to inform policy-making.
 
-> **Narrative**: These organizations advance interdisciplinary research and promote best practices.
+> These organizations advance interdisciplinary research and promote best practices.
 
 ### 4. Other Categories/Groups
