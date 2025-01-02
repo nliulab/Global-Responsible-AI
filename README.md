@@ -1,8 +1,9 @@
-
 # 🌍 Global Responsible AI Landscape: A Comprehensive Guide
 
 Welcome to the **Global Responsible AI Landscape** repository! This repository is a curated collection of guidelines, policies, research institutes, and tools related to the development and deployment of Responsible AI around the world. Our goal is to provide an organized and narrative-rich resource that bridges technical, ethical, and governance aspects of AI.
+
 ---
+
 ## 📌 Why This Repository?
 
 The rapid advancement of AI technologies has brought immense opportunities and challenges. Ensuring responsible AI requires:
@@ -12,10 +13,14 @@ The rapid advancement of AI technologies has brought immense opportunities and c
 - **Collaborative Research**: Institutes and organizations leading the way in RAI initiatives.
 
 This repository goes beyond simple listings to offer contextual narratives that explain the importance and application of each resource.
----
-##📬 Contact Us
 
-We value your input and are here to answer your questions or hear your suggestions!
+---
+
+## 📬 Contact Us
+
+We value your input and are here to answer your questions or hear your suggestions!  
+Feel free to reach out via [GitHub Issues](https://github.com/nliulab/Global-Responsible-AI/issues).
+
 ---
 
 ## 🌀 The AI Lifecycle: A Holistic Approach  
@@ -23,7 +28,6 @@ We value your input and are here to answer your questions or hear your suggestio
 The development of AI systems follows a structured lifecycle, encompassing multiple phases from initial ideation to long-term maintenance. Each phase involves specific processes, challenges, and considerations that contribute to the overall quality and impact of the AI system.  
 
 ### 1️⃣ Model Development  
-
 This phase involves designing, training, and validating the AI model to achieve specific objectives. Developers select appropriate datasets, define model architectures, and employ training methodologies.  
 
 **Key Considerations**:  
@@ -32,7 +36,6 @@ This phase involves designing, training, and validating the AI model to achieve 
 - **Ethical Issues**: Potential biases embedded in training data, lack of inclusivity, and opacity in decision-making logic.  
 
 ### 2️⃣ Evaluation  
-
 Evaluation focuses on testing the AI system under diverse conditions to ensure reliability, robustness, and fairness. This phase includes benchmarking, stress-testing, and assessing the model's generalizability to new environments.  
 
 **Key Considerations**:  
@@ -41,7 +44,6 @@ Evaluation focuses on testing the AI system under diverse conditions to ensure r
 - **Ethical Issues**: Misrepresentation of performance metrics, overfitting, and exclusion of edge cases.  
 
 ### 3️⃣ Bias and Risk Assessment  
-
 Bias and risk assessment identifies potential pitfalls in the model's predictions, focusing on fairness, safety, and ethical implications. Developers scrutinize the model for disparities across different demographic groups or unintended consequences.  
 
 **Key Considerations**:  
@@ -50,7 +52,6 @@ Bias and risk assessment identifies potential pitfalls in the model's prediction
 - **Ethical Issues**: Discrimination, inequity, and failure to account for societal impacts.  
 
 ### 4️⃣ Implementation  
-
 The implementation phase involves deploying the AI system in real-world settings. This requires integrating the model into workflows, providing user training, and establishing governance mechanisms.  
 
 **Key Considerations**:  
@@ -59,7 +60,6 @@ The implementation phase involves deploying the AI system in real-world settings
 - **Ethical Issues**: Data privacy, user autonomy, and risks from inappropriate use.  
 
 ### 5️⃣ Continuous Monitoring  
-
 Once deployed, the system enters an operational phase where it must be continuously monitored to ensure ongoing performance and ethical compliance. Monitoring includes tracking for data drift, updating models, and incorporating feedback.  
 
 **Key Considerations**:  
@@ -71,20 +71,8 @@ Once deployed, the system enters an operational phase where it must be continuou
 
 ## 🗺️ The AI Lifecycle Flow  
 
-Here’s a visual representation of the AI lifecycle:  
 
-```mermaid
-graph TD
-    A[Model Development] --> B[Evaluation]
-    B --> C[Bias/Risk Assessment]
-    C --> D[Implementation]
-    D --> E[Continuous Monitoring]
-    E --> F{Improvement Loop}
-    F --> A
-    F --> D
 ---
-
-
 
 ## 📋 Comprehensive Table of Guidelines and Frameworks
 
@@ -109,8 +97,3 @@ graph TD
 | [RAIN](https://www.industry.gov.au/science-technology-and-innovation/technology/national-artificial-intelligence-centre/responsible-ai-network) | Research Institute | Ethical AI | Promotes ethical AI through collaboration with government, academia, and industry. |
 | [DIHI](https://dihi.org) | Research Institute | Healthcare | Accelerates innovative healthcare solutions integrating data science and advanced technologies. |
 | [Oxford AI Ethics](https://www.oxford-aiethics.ox.ac.uk) | Research Institute | Ethics | Explores ethical dilemmas arising from AI technologies. |
-
-
-
-
-
