@@ -1,4 +1,4 @@
-# 🌍 Global Responsible Health-AI Landscape: A Comprehensive Guide
+# 🌍 Global Landscape of Responsible AI in Healthcare: A Comprehensive Guide
 
 Welcome to the **Global Responsible AI Landscape** repository! This repository is a curated collection of guidelines, policies, research institutes, and tools related to the development and deployment of Responsible AI around the world. Our goal is to provide an organized and narrative-rich resource that bridges technical, ethical, and governance aspects of AI.
 
@@ -16,8 +16,8 @@ This repository goes beyond simple listings to offer contextual narratives that 
 
 We value your input and are here to answer your questions or hear your suggestions!  
 For inquiries, please reach out to:  
-- **Nan Liu** at [liu.nan@duke-nus.edu.sg](mailto:liu.nan@duke-nus.edu.sg)  
 - **Yian Ma** at [yian.ma@nus.edu.sg](mailto:yian.ma@nus.edu.sg)
+- **Nan Liu** at [liu.nan@duke-nus.edu.sg](mailto:liu.nan@duke-nus.edu.sg)  
 
 ## 🌀 The AI Lifecycle: A Holistic Approach
 
