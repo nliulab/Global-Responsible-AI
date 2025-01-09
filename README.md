@@ -1,4 +1,4 @@
-# 🌍 Global Responsible AI Landscape: A Comprehensive Guide
+# 🌍 Global Responsible Health-AI Landscape: A Comprehensive Guide
 
 Welcome to the **Global Responsible AI Landscape** repository! This repository is a curated collection of guidelines, policies, research institutes, and tools related to the development and deployment of Responsible AI around the world. Our goal is to provide an organized and narrative-rich resource that bridges technical, ethical, and governance aspects of AI.
 
