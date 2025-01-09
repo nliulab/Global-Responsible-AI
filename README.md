@@ -14,7 +14,8 @@ This repository goes beyond simple listings to offer contextual narratives that 
 
 ## 📩 Contact Us
 
-We value your input and are here to answer your questions or hear your suggestions! For inquiries, please reach out to:  
+We value your input and are here to answer your questions or hear your suggestions. 
+For inquiries, please reach out to:  
 - **Yian Ma** at [yian.ma@nus.edu.sg](mailto:yian.ma@nus.edu.sg)
 - **Nan Liu** at [liu.nan@duke-nus.edu.sg](mailto:liu.nan@duke-nus.edu.sg)  
 
