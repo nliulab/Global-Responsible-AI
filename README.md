@@ -53,8 +53,8 @@ The development of AI systems follows a structured lifecycle, encompassing multi
 | **Name**                                                        | **Region**         | **Description**                                                                                                    |
 |-----------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------|
 | [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Regional (EU)      | Creates a legal framework categorizing AI systems based on risk levels.                                           |
-| [Singapore IMDA Model](https://www.imda.gov.sg)                 | Regional (Singapore) | Outlines principles for ethical AI use, emphasizing transparency and accountability.                              |
 | [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) | Regional (US)      | Offers a structured approach to identifying and managing AI-related risks.                                        |
+| [Singapore IMDA Model](https://www.imda.gov.sg)                 | Regional (Singapore) | Outlines principles for ethical AI use, emphasizing transparency and accountability.                              |
 | [WHO Ethical AI](https://www.who.int/publications/i/item/9789240029200) | Worldwide          | Guides ethical deployment of AI in healthcare with six principles.                                                |
 | [WHO LMMs Guideline](https://www.who.int/publications/i/item/9789240084759) | Worldwide          | Provides ethical and practical considerations for large multimodal models.                                        |
 
