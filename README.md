@@ -1,4 +1,4 @@
-# 🌍 Global Responsible AI Landscape: A Comprehensive Guide
+# 🌍 Global Responsible Med-AI Landscape: A Comprehensive Guide
 
 Welcome to the **Global Responsible AI Landscape** repository! This repository is a curated collection of guidelines, policies, research institutes, and tools related to the development and deployment of Responsible AI around the world. Our goal is to provide an organized and narrative-rich resource that bridges technical, ethical, and governance aspects of AI.
 
@@ -57,6 +57,7 @@ The development of AI systems follows a structured lifecycle, encompassing multi
 | **Name**                                                        | **Region**         | **Description**                                                                                                    |
 |-----------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------|
 | [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | Regional (EU)      | Creates a legal framework categorizing AI systems based on risk levels.                                           |
+| [SAFER Guide](https://www.healthit.gov/topic/safety/safer-guides) | Regional (US) | Provides evidence-based recommendations to optimize the safe use of electronic health records (EHRs) and aims to help healthcare organizations identify potential safety risks and implement proactive strategies to mitigate them. |
 | [Singapore IMDA Model](https://www.imda.gov.sg)                 | Regional (Singapore) | Outlines principles for ethical AI use, emphasizing transparency and accountability.                              |
 | [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) | Regional (US)      | Offers a structured approach to identifying and managing AI-related risks.                                        |
 | [WHO Ethical AI](https://www.who.int/publications/i/item/9789240029200) | Worldwide          | Guides ethical deployment of AI in healthcare with six principles.                                                |
@@ -72,4 +73,5 @@ The development of AI systems follows a structured lifecycle, encompassing multi
 | [DIHI](https://dihi.org)                                       | Regional (US)      | Accelerates innovative healthcare solutions integrating data science and advanced technologies.                    |
 | [HEALTHAI](https://www.healthai.agency)                        | Worldwide          | Focuses on advancing responsible AI in healthcare through multi-stakeholder collaboration.                         |
 | [Oxford AI Ethics](https://www.oxford-aiethics.ox.ac.uk)       | Regional (UK)      | Explores ethical dilemmas arising from AI technologies.                                                           |
+| [RAISE Health](https://med.stanford.edu/raisehealth)           | Regional (US)      | A joint initiative between Stanford Medicine and the Stanford Institute for Human-Centered Artificial Intelligence (HAI) to guide the responsible use of AI across biomedical research, education, and patient care. |
 | [Responsible AI Network (RAIN)](https://www.industry.gov.au/science-technology-and-innovation/technology/national-artificial-intelligence-centre/responsible-ai-network) | Regional (Australia) | Promotes ethical AI through collaboration with government, academia, and industry.                                 |
